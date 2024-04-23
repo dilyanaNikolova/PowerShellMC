@@ -1,7 +1,7 @@
 #region Module 1 - PowerShell Fundamentals
 
 #Basic Pipeline
-dir | Sort-Object -Descending
+dir | Sort-Object -Ascending
 
 dir | Sort-Object lastwritetime
 
